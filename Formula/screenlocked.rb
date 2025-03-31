@@ -1,9 +1,9 @@
 class Screenlocked < Formula
   desc "Command-line utility to check macOS screen lock status"
   homepage "https://github.com/medopaw/screenlocked"
-  url "https://github.com/medopaw/screenlocked/releases/download/v0.0.4/screenlocked-v0.0.4.tar.gz"
-  sha256 "60d9c83c303ac8cd0682f45fc72635a691b6bd8e228d2ab6a45772dbfc61e471"
-  version "v0.0.4"
+  url "https://github.com/medopaw/screenlocked/releases/download/v0.0.5/screenlocked-v0.0.5.tar.gz"
+  sha256 "251f7ff91654908cca7a3c2438d5f075f23f198b4d5ea589ba65beef7f96d623"
+  version "v0.0.5"
 
   def install
     bin.install "screenlocked"
